@@ -1,0 +1,16 @@
+always place the controller.SimpleCalendar.jar and events.txt in the same directory path.
+
+open commandprompt. (command + shift -> terminal) for mac
+(windows + R) on windows
+
+type: java
+response: if java is installed then it will show the usage help
+if it is not installed then it should say -> command not recognized
+
+if installed:
+
+type: java -jar controller.SimpleCalendar.jar
+(it should open/start the application)
+
+or simply double click on the controller.SimpleCalendar.jar icon
+(it should open/start the application)
